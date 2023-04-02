@@ -1,0 +1,9 @@
+2023-04-03 01:32:48.158700 - Initialized conversion of CBT630
+2023-04-03 01:32:48.213173 - Received CBT.V504.FILE630.PDS from FILE630.XMI 
+2023-04-03 01:32:48.215964 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:32:48.217131 - Found $DOCINST.txt (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/$DOCINST
+2023-04-03 01:32:48.218253 - Found @FILE630.txt (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/@FILE630
+2023-04-03 01:32:48.219285 - Found ASMSMS.jcl (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/ASMSMS
+2023-04-03 01:32:48.220455 - Found MC.rexx (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/MC
+2023-04-03 01:32:48.221523 - Found MCPAN1.txt (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/MCPAN1
+2023-04-03 01:32:48.222516 - Found TSOSMS.txt (text/plain) in CBT.V504.FILE630.PDS, moved to PDS/TSOSMS
