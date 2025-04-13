@@ -1,0 +1,8 @@
+2025-04-13 21:22:51.922298 - Received CBT.V508.FILE630.PDS from FILE630.XMI 
+2025-04-13 21:22:51.923423 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:22:51.923524 - Found $DOCINST.txt (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/$DOCINST
+2025-04-13 21:22:51.923606 - Found @FILE630.txt (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/@FILE630
+2025-04-13 21:22:51.923683 - Found ASMSMS.jcl (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/ASMSMS
+2025-04-13 21:22:51.923767 - Found MC.rexx (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/MC
+2025-04-13 21:22:51.923843 - Found MCPAN1.txt (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/MCPAN1
+2025-04-13 21:22:51.923925 - Found TSOSMS.txt (text/plain) in CBT.V508.FILE630.PDS, moved to PDS/TSOSMS
